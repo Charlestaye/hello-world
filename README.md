@@ -5,6 +5,7 @@ Hello world!
 
 
     Cheese Below
+    
 ![Cheese](cheese.jpg)
 
 
@@ -12,6 +13,7 @@ Hello world!
 
 
     Dog above
+
 ## Here is my map in both PDF and JPEG
 
 [*LandcoverPDF*](Layout.pdf)
